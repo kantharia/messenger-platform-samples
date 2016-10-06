@@ -2,5 +2,5 @@
     "appSecret": "7b868911e7592eb069fd2f0e1ccf271d",
     "pageAccessToken": "EAAC2SzPAWOkBAHZBZAAM2N6RUBXIwLufCXiotX3XhsOW9arfldQMBjhsXsHAhlZAnzheiDBJKIQvnnH2lNcAuWcbO1F44PUpa2GyEFE6TLxzwyAmbVv0a5rdL12ZCacoXialAZC8YoZBKdGHbIndy2ZBRZClRD8QOsHVd5cBgCygbwZDZD",
     "validationToken": "validation",
-    "serverURL": ""
+    "serverURL": "https://miraroad.herokuapp.com/"
 }
